@@ -17,7 +17,7 @@ Bei Wiederholungstaten (des gleichen Bangrunds), wird die Banzeit verdoppelt.
 
 Wenn hier verbotene Sachen explizit durch das Regelwerk des Projektes erlaubt ist, wird das Vergehen nicht gebannt, es sei denn, es verstößt gegen deutsches Recht (zB. Hacking-Varo).
 
-Mindeststrafen können vermindert werden, wenn sich der Beschuldigte nach der Tat im Kontext dieser positiv verhalten hat.
+Mindeststrafen können um maximal 50% vermindert werden, wenn sich der Beschuldigte nach der Tat im Kontext dieser positiv verhalten hat.
 
 **Discord:** https://discord.gg/w8tj2k46tg<br/>
 **SpigotMC:** https://www.spigotmc.org/resources/71075/
