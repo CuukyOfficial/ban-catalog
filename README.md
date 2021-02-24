@@ -2,6 +2,7 @@
 
 ## Informationen
 Gebannt werden Handlungen, die anderen Mitspielern den Spielspaß in Projekten nehmen könnten und auf einem Server, der das Plugin in diesem Moment benutzt, ausgeführt werden. Weiterhin werden Handlungen gebannt, die nach deutschem Recht verboten sind. 
+
 Alle dieser Regeln, welche das Gameplay (Chatverhalten, Ausnutzung & Hacking z.B.) des Varos betreffen, können von dem Admin des Projekts außer Kraft gesetzt werden, wenn auf die Regeln angemessen hingewiesen wird und die Ausnahme ausdrücklich beschrieben wird - sonst gelten diese Regeln für alle verbindlich.
 Somit kann es zum Beispiel, unter richtiger Dokumentierung in dem Regelwerk des Varos, möglich sein, ein Hacking-Varo zu veranstalten.
 
