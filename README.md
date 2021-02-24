@@ -22,7 +22,7 @@ Wenn hier verbotene Sachen explizit durch das Regelwerk des Projektes erlaubt is
 ```
 Hacking
    ↳ CombatHacks (Killaura, Flight, Speed, ...) und NonCombatHacks (X-Ray, Chestfinder, ...)
-   ↳ Crashing & DDOS 
+   ↳ DOS-Attacken aller Art
    ↳ 2 Monate
 
 Chatverhalten¹
