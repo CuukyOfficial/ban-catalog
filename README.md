@@ -6,6 +6,8 @@ Gebannt werden Handlungen, die anderen Mitspielern den Spielspaß in Projekten n
 Alle dieser Regeln, welche das Gameplay (Chatverhalten, Ausnutzung & Hacking z.B.) des Varos betreffen, können von dem Admin des Projekts außer Kraft gesetzt werden, wenn auf die Regeln angemessen hingewiesen wird und die Ausnahme ausdrücklich beschrieben wird - sonst gelten diese Regeln für alle verbindlich.
 Somit kann es zum Beispiel, unter richtiger Dokumentierung in dem Regelwerk des Varos, möglich sein, ein Hacking-Varo zu veranstalten.
 
+Alle Strafen/Regeln dieses Katalogs gelten auch für modifizierten Versionen des Plugins - mit Ausnahme der Bannumgehung.
+
 Bans werden nur mit passenden Beweisen verteilt. Gibt es keine Beweise, gibt es keinen Ban.
 
 Die Bans werden manuell verteilt und in besonderen Fällen kann vom Katalog abgewichen werden.
