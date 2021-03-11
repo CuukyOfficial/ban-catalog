@@ -32,7 +32,7 @@ A1 Hacking
 B1 Chatverhalten¹
    ↳ B1.1 Schwere Beleidigung
       ↳ B1.1.1 auf Eigenschaften bezogene Beleidigungen (Spezifische Eigenschaften der Person absichtlich angegriffen)
-      ↳ B1.1.2 Ausführliche Drohungen, Todesdrohungen (Stirb an ...)
+      ↳ B1.1.2 Ausführliche Drohungen, Todesdrohungen (Aufforderung zur Selbstverletzung oder Suizid,  ...)
       ↳ B1.1.3 Rassismus, Nationalsozialismus, Extremismus, ...
       ↳ = 1 Monat
 
