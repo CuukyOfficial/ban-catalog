@@ -1,7 +1,7 @@
 # 🖥 Bankatalog für das Cuuky Varo Plugin
 
 ## Informationen
-Gebannt werden Handlungen, die anderen Mitspielern den Spielspaß in Projekten nehmen könnten und auf einem Server, der das Plugin in diesem Moment benutzt, ausgeführt werden. Weiterhin werden Handlungen gebannt, die nach deutschem Recht verboten sind. 
+Gebannt werden Handlungen, die anderen Mitspielern den Spielspaß in Projekten nehmen könnten und auf einem Server, der das Plugin in diesem Moment benutzt, ausgeführt werden. Weiterhin werden eventuell Handlungen gebannt, die nach deutschem Recht verboten sind. 
 
 Alle dieser Regeln, welche das Gameplay (Chatverhalten, Ausnutzung & Hacking z.B.) des Varos betreffen, können von dem Admin des Projekts außer Kraft gesetzt werden, wenn auf die Regeln angemessen hingewiesen wird und die Ausnahme ausdrücklich beschrieben wird - sonst gelten diese Regeln für alle verbindlich.
 Somit kann es zum Beispiel, unter richtiger Dokumentierung in dem Regelwerk des Varos, möglich sein, ein Hacking-Varo zu veranstalten.
@@ -27,15 +27,12 @@ Mindeststrafen können um maximal 50% vermindert werden, wenn sich der Beschuldi
 Hacking
    ↳ CombatHacks (Killaura, Flight, Speed, ...) und NonCombatHacks (X-Ray, Chestfinder, ...)
    ↳ DOS-Attacken aller Art
-   ↳ 2 Monate
+   ↳ 1-2 Monate
 
 Chatverhalten¹
-   ↳ Beleidigung
-      ↳ nicht auf Eigenschaften bezogene Beleidigungen
-      ↳ 2 Wochen
    ↳ Schwere Beleidigung
-      ↳ auf Eigenschaften bezogene Beleidigungen (Behindertenfeindlichkeit, ...)
-      ↳ Drohungen, Todesdrohungen (Stirb an ...)
+      ↳ auf Eigenschaften bezogene Beleidigungen (Spezifische Eigenschaften der Person absichtlich angegriffen)
+      ↳ Ausführliche Drohungen, Todesdrohungen (Stirb an ...)
       ↳ Rassismus, Nationalsozialismus, Extremismus, ...
       ↳ 1 Monat
 
