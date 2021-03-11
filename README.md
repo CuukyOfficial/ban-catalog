@@ -32,7 +32,7 @@ A1 Hacking
 B1 Chatverhalten¹
    ↳ B1.1 Schwere Beleidigung
       ↳ B1.1.1 auf Eigenschaften bezogene Beleidigungen (Spezifische Eigenschaften der Person absichtlich angegriffen)
-      ↳ B1.1.2 Ausführliche Drohungen, Todesdrohungen (Aufforderung zur Selbstverletzung oder Suizid,  ...)
+      ↳ B1.1.2 ausführliche Drohungen, Todesdrohungen (Aufforderung zur Selbstverletzung oder Suizid,  ...)
       ↳ B1.1.3 Rassismus, Nationalsozialismus, Extremismus, ...
       ↳ = 1 Monat
 
@@ -52,12 +52,12 @@ D1 Nichtausschüttung von Preisen
   
 E1 Banumgehung
    ↳ E1.1 Nutzung von Zweitaccounts, ...
-   ↳ E1.2 Wer andere bei Banumgehung unterstützt, erhält einen 10 Tage Ban.
+   ↳ E1.2 wer andere bei Banumgehung unterstützt, erhält einen 10 Tage Ban.
    ↳ = Verdopplung des letzten Bans, ab dem Zeitpunkt der Banumgehung
    
 F1 Nichtbeachtung der Pluginlizenz
    ↳ F1.1 Veränderung des Plugin Sourcecodes ohne Beachtung der Lizenz
-   ↳ = -Verwarnung, bei weiterer Nichtbeachtung permanenter Ban
+   ↳ = Verwarnung, bei weiterer Nichtbeachtung permanenter Ban
 
 
 ¹Beleidigungen sollten weitesgehend von den Projekten selbst verwaltet werden und nur bei extremen Fällen oder schweren Beleidigungen gemeldet werden.
