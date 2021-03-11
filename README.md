@@ -32,8 +32,9 @@ A1 Hacking
 B1 Chatverhalten¹
    ↳ B1.1 Schwere Beleidigung
       ↳ B1.1.1 auf Eigenschaften bezogene Beleidigungen (Spezifische Eigenschaften der Person absichtlich angegriffen)
-      ↳ B1.1.2 ausführliche Drohungen, Todesdrohungen (Aufforderung zur Selbstverletzung oder Suizid,  ...)
-      ↳ B1.1.3 Rassismus, Nationalsozialismus, Extremismus, ...
+      ↳ B1.1.2 ausführliche Drohungen, Todesdrohungen, jemandem den Tod wünschen, etc.
+      ↳ B1.1.3 Aufforderung zur Selbstverletzung oder Suizid
+      ↳ B1.1.4 Rassismus, Nationalsozialismus, Extremismus, Behindertenfeindlichkeit, ...
       ↳ = 1 Monat
 
 C1 Ausnutzung der Adminrechte während des Projektes
