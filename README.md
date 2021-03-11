@@ -36,9 +36,9 @@ B1 Chatverhalten¹
       ↳ B1.1.3 Rassismus, Nationalsozialismus, Extremismus, ...
       ↳ = 1 Monat
 
-C1 Ausnutzung der Adminrechte
+C1 Ausnutzung der Adminrechte während des Projektes
    ↳ C1.1 Cheaten von Items (für Teams)
-   ↳ C1.2 unrechtmäßiges Bannen
+   ↳ C1.2 unrechtmäßiges Ausschließen vom Projekt/Bannen
    ↳ C1.3 unrechtmäßiges Wiederbeleben/Töten
    ↳ C1.4 sonstige schwere Rechteausnutzungen
    ↳ C1.5 Verändern des Regelwerks während eines laufenden Varos zum Vorteil von nicht allen Nutzern
