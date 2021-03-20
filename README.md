@@ -33,8 +33,10 @@ B1 Chatverhalten¹
    ↳ B1.1 Schwere Beleidigung
       ↳ B1.1.1 auf Eigenschaften bezogene Beleidigungen (Spezifische Eigenschaften der Person absichtlich angegriffen)
       ↳ B1.1.2 ausführliche Drohungen, Todesdrohungen, jemandem den Tod wünschen, etc.
-      ↳ B1.1.3 Aufforderung zur Selbstverletzung oder Suizid
-      ↳ B1.1.4 Rassismus, Nationalsozialismus, Extremismus, Behindertenfeindlichkeit, ...
+      ↳ = 1 Woche
+   ↳ B1.2 Generelles schweres Missverhalten
+      ↳ B1.2.1 Persönliche Aufforderung zur Selbstverletzung oder Suizid
+      ↳ B1.2.2 Rassismus, Nationalsozialismus, Extremismus, Behindertenfeindlichkeit, ...
       ↳ = 1 Monat
 
 C1 Ausnutzung der Adminrechte während des Projektes
