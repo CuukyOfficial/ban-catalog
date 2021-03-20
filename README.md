@@ -22,6 +22,8 @@
 
 8.   Mindeststrafen können um maximal 50% vermindert werden, wenn sich der Beschuldigte nach der Tat im Kontext dieser positiv verhalten hat.
 
+9.   Wir behalten uns das Recht vor Strafen zugunsten der Teilnehmer aufzuschieben.
+
 ## Bangründe
 ```
 A1 Hacking
@@ -40,14 +42,16 @@ B1 Chatverhalten¹
       ↳ = 1 Monat
 
 C1 Ausnutzung der Adminrechte während des Projektes
-   ↳ C1.1 Cheaten von Items (für Teams)
-   ↳ C1.2 unrechtmäßiges Ausschließen vom Projekt/Bannen
-   ↳ C1.3 unrechtmäßiges Wiederbeleben/Töten
-   ↳ C1.4 sonstige schwere Rechteausnutzungen
-   ↳ C1.5 Verändern des Regelwerks während eines laufenden Varos zum Vorteil von nicht allen Nutzern
-   ↳ C1.6 Modifizieren der Welt zum Vorteil von nicht allen Nutzern
-   ↳ C1.7 ungleiche Behandlung der Spieler jeglicher Art mit mindestens mittelschweren Auswirkungen
-   ↳ = 1-2 Monate
+   ↳ C1.1 Konkrete Einflussnahme auf die Spielwelt
+      ↳ C1.1.1 Cheaten von Items (für sich selbst oder andere)
+      ↳ C1.1.2 Modifizieren der Welt zum Vorteil von bestimmten Nutzern
+      ↳ = 1-4 Wochen
+   ↳ C1.2 Unfaire Behandlung der Teilnehmer
+      ↳ C1.2.1 unrechtmäßiges Ausschließen vom Projekt/Bannen
+      ↳ C1.2.2 unrechtmäßiges Wiederbeleben/Töten
+      ↳ C1.2.3 Verändern des Regelwerks während eines laufenden Varos zum Vorteil von nicht allen Nutzern
+      ↳ C1.2.4 ungleiche Behandlung der Spieler jeglicher Art mit schweren Auswirkungen
+      ↳ = 1-4 Wochen
 
 D1 Nichtausschüttung von Preisen
    ↳ D1.1 nichtausgezahlte Preisgelder bzw. nicht ausgegebene Gewinne
