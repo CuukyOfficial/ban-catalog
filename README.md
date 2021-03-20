@@ -56,12 +56,18 @@ C1 Ausnutzung der Adminrechte während des Projektes
 D1 Nichtausschüttung von Preisen
    ↳ D1.1 nichtausgezahlte Preisgelder bzw. nicht ausgegebene Gewinne
    ↳ = permanenter Bann
-  
+
 E1 Banumgehung
    ↳ E1.1 Nutzung von Zweitaccounts, ...
-   ↳ E1.2 wer andere bei Banumgehung unterstützt, erhält einen 10 Tage Ban.
-   ↳ = Verdopplung des letzten Bans, ab dem Zeitpunkt der Banumgehung
-   
+      ↳ = Verdopplung des letzten Bans, ab dem Zeitpunkt der Banumgehung
+   ↳ E1.2 Unterstützung bei Bannumgehung von gebannten Spielern
+      ↳ E1.2.1 Bereitstellung eines Accounts
+         ↳ = Bannen aller derzeitig verlinkten Accounts von der Person, die Hilfe geleistet hat.
+             Die Banndaten für den neuen Bann werden aus dem Bann des bereits gebannten Spieler übernommen.
+             Neue Accounts des Hilfeleisters werden hier jedoch nicht verlinkt -> Bannumgehung hier erlaubt.
+      ↳ E1.2.2 Andere absichtliche Beihilfe zur Bannumgehung
+         ↳ = Regulärer 10 Tage Bann
+
 F1 Nichtbeachtung der Pluginlizenz
    ↳ F1.1 Veränderung des Plugin Sourcecodes ohne Beachtung der Lizenz
    ↳ = Verwarnung, bei weiterer Nichtbeachtung permanenter Ban
