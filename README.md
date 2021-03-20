@@ -11,12 +11,12 @@
 
 3.   Alle Strafen/Regeln dieses Katalogs gelten auch für modifizierten Versionen des Plugins - mit Ausnahme der Bannumgehung.
 
-4.   Bans werden nur mit passenden Beweisen verteilt. Gibt es keine Beweise, gibt es keinen Ban.
+4.   Banns werden nur mit passenden Beweisen verteilt. Gibt es keine Beweise, gibt es keinen Bann.
 
-5.   Die Bans werden manuell verteilt und in besonderen Fällen kann vom Katalog abgewichen werden.
+5.   Die Banns werden manuell verteilt und in besonderen Fällen kann vom Katalog abgewichen werden.
 
-6.   Dieser Katalog kann erweitert und verändert werden, bereits ausgeteilte Bans und noch offene Fälle werden dadurch nicht angepasst/aktualisiert.
-     Bei Wiederholungstaten (des gleichen Bangrunds), wird die Banzeit verdoppelt.
+6.   Dieser Katalog kann erweitert und verändert werden, bereits ausgeteilte Banns und noch offene Fälle werden dadurch nicht angepasst/aktualisiert.
+     Bei Wiederholungstaten (des gleichen Banngrunds), wird die Bannzeit verdoppelt.
 
 7.   Wenn hier verbotene Sachen explizit durch das Regelwerk des Projektes erlaubt ist, wird das Vergehen nicht gebannt, es sei denn, es verstößt gegen deutsches Recht (zB.          Hacking-Varo).
 
@@ -24,14 +24,17 @@
 
 9.   Wir behalten uns das Recht vor Strafen zugunsten der Teilnehmer aufzuschieben.
 
-## Bangründe
+10.  Bei mehrfachen/wiederholten schweren Verstößen ist eine permanente Ausschließung eines Spielers möglich.     
+
+
+## Banngründe
 ```
-A1 Hacking
+A1 Hacking | Max. 1 Bann pro Projekt
    ↳ A1.1 CombatHacks (Killaura, Flight, Speed, ...) und NonCombatHacks (X-Ray, Chestfinder, ...)
    ↳ A1.2 DOS-Attacken aller Art
    ↳ = 1-2 Monate
 
-B1 Chatverhalten¹
+B1 Chatverhalten¹ | Mehrfache Bestrafung pro Projekt möglich
    ↳ B1.1 Schwere Beleidigung
       ↳ B1.1.1 auf Eigenschaften bezogene Beleidigungen (Spezifische Eigenschaften der Person absichtlich angegriffen)
       ↳ B1.1.2 ausführliche Drohungen, Todesdrohungen, jemandem den Tod wünschen, etc.
@@ -41,7 +44,7 @@ B1 Chatverhalten¹
       ↳ B1.2.2 Rassismus, Nationalsozialismus, Extremismus, Behindertenfeindlichkeit, ...
       ↳ = 1 Monat
 
-C1 Ausnutzung der Adminrechte während des Projektes
+C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt
    ↳ C1.1 Konkrete Einflussnahme auf die Spielwelt
       ↳ C1.1.1 Cheaten von Items (für sich selbst oder andere)
       ↳ C1.1.2 Modifizieren der Welt zum Vorteil von bestimmten Nutzern
@@ -53,13 +56,13 @@ C1 Ausnutzung der Adminrechte während des Projektes
       ↳ C1.2.4 ungleiche Behandlung der Spieler jeglicher Art mit schweren Auswirkungen
       ↳ = 1-4 Wochen
 
-D1 Nichtausschüttung von Preisen
+D1 Nichtausschüttung von Preisen | Max. 1 Bann pro Projekt
    ↳ D1.1 nichtausgezahlte Preisgelder bzw. nicht ausgegebene Gewinne
    ↳ = permanenter Bann
 
-E1 Banumgehung
+E1 Bannumgehung | Max. 1 Bann pro Projekt
    ↳ E1.1 Nutzung von Zweitaccounts, ...
-      ↳ = Verdopplung des letzten Bans, ab dem Zeitpunkt der Banumgehung
+      ↳ = Verdopplung des letzten Bans, ab dem Zeitpunkt der Bannumgehung
    ↳ E1.2 Unterstützung bei Bannumgehung von gebannten Spielern
       ↳ E1.2.1 Bereitstellung eines Accounts
          ↳ = Bannen aller derzeitig verlinkten Accounts von der Person, die Hilfe geleistet hat.
@@ -70,7 +73,7 @@ E1 Banumgehung
 
 F1 Nichtbeachtung der Pluginlizenz
    ↳ F1.1 Veränderung des Plugin Sourcecodes ohne Beachtung der Lizenz
-   ↳ = Verwarnung, bei weiterer Nichtbeachtung permanenter Ban
+   ↳ = Verwarnung, bei weiterer Nichtbeachtung permanenter Bann
 
 
 ¹Beleidigungen sollten weitesgehend von den Projekten selbst verwaltet werden und nur bei extremen Fällen oder schweren Beleidigungen gemeldet werden.
