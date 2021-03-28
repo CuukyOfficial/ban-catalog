@@ -38,7 +38,7 @@ B1 Chatverhalten¹ | Mehrfache Bestrafung pro Projekt möglich
    ↳ B1.1 Schwere Beleidigung
       ↳ B1.1.1 auf Eigenschaften bezogene Beleidigungen (Spezifische Eigenschaften der Person absichtlich angegriffen)
       ↳ B1.1.2 ausführliche Drohungen, Todesdrohungen, jemandem den Tod wünschen, etc.
-      ↳ = 1 Woche
+      ↳ = 1 Woche (Der Ban kann unter zustimmung aller beleidigter Personen mit sofortiger Wirkung aufgehoben werden. Er gilt jedoch desshalb nicht als ungerechtfertigt, wodurch Regel 6 (Wiederholungen des gleichen Banngrunds) weiterhin gilt. Auch ein Ban aufgrund von Bannumgehung der möglicherweise auf diesen Ban folgt wird nicht aufgehoben.)
    ↳ B1.2 Generelles schweres Missverhalten
       ↳ B1.2.1 Persönliche Aufforderung zur Selbstverletzung oder Suizid
       ↳ B1.2.2 Rassismus, Nationalsozialismus, Extremismus, Behindertenfeindlichkeit, ...
