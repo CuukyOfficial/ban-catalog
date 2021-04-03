@@ -34,7 +34,7 @@ A1 Hacking | Max. 1 Bann pro Projekt
    ↳ A1.2 DOS-Attacken aller Art
    ↳ = 1-2 Monate
 
-B1 Chatverhalten und allgemein schriftliches Verhalten¹ | Mehrfache Bestrafung pro Projekt möglich
+B1 Verhalten in schriftlicher Form¹ | Mehrfache Bestrafung pro Projekt möglich
    ↳ B1.1 Schwere Beleidigung
       ↳ B1.1.1 auf Eigenschaften bezogene Beleidigungen (Spezifische Eigenschaften der Person absichtlich angegriffen)
       ↳ B1.1.2 ausführliche Drohungen, Todesdrohungen, jemandem den Tod wünschen, etc.
