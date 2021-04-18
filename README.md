@@ -71,6 +71,10 @@ F1 Nichtbeachtung der Pluginlizenz
    ↳ F1.1 Veränderung des Plugin Sourcecodes ohne Beachtung der Lizenz
    ↳ = Verwarnung, bei weiterer Nichtbeachtung permanenter Bann
 
+G1 Mutwilliges Fälschen von Beweisen
+   ↳ permanente Reportsperre
+   ↳ = 3 Monate Bann
+
 
 ¹Beleidigungen sollten weitesgehend von den Projekten selbst verwaltet werden und nur bei extremen Fällen oder schweren Beleidigungen gemeldet werden.
 ```
