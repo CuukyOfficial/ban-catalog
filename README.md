@@ -44,7 +44,7 @@ B1 Verhalten in schriftlicher Form¹ | Mehrfache Bestrafung pro Projekt möglich
       ↳ B1.2.2 Rassismus, Nationalsozialismus, Extremismus, Behindertenfeindlichkeit, ...
       ↳ = 1 Monat
 
-C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt
+C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt (kann nur von Projektteilnehmern reported werden)
    ↳ C1.1 Konkrete Einflussnahme auf die Spielwelt
       ↳ C1.1.1 Cheaten von Items (für sich selbst oder andere)
       ↳ C1.1.2 Modifizieren der Welt zum Vorteil von bestimmten Nutzern
