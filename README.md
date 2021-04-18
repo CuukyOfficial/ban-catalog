@@ -35,10 +35,6 @@ A1 Hacking | Max. 1 Bann pro Projekt
    ↳ = 1-2 Monate
 
 B1 Verhalten in schriftlicher Form¹ | Mehrfache Bestrafung pro Projekt möglich
-   ↳ B1.1 Schwere Beleidigung
-      ↳ B1.1.1 auf Eigenschaften bezogene Beleidigungen (Spezifische Eigenschaften der Person absichtlich angegriffen)
-      ↳ B1.1.2 ausführliche Drohungen, Todesdrohungen, jemandem den Tod wünschen, etc.
-      ↳ = 1 Woche
    ↳ B1.2 Generelles schweres Missverhalten
       ↳ B1.2.1 Persönliche Aufforderung zur Selbstverletzung oder Suizid
       ↳ B1.2.2 Rassismus, Nationalsozialismus, Extremismus, Behindertenfeindlichkeit, ...
