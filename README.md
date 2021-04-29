@@ -8,6 +8,12 @@
 
 2.   Alle dieser Regeln, welche das Gameplay (Chatverhalten, Ausnutzung & Hacking z.B.) des Varos betreffen, können von dem Admin des Projekts außer Kraft gesetzt werden, wenn        auf die Regeln angemessen hingewiesen wird und die Ausnahme ausdrücklich beschrieben wird - sonst gelten diese Regeln für alle verbindlich.
      Somit kann es zum Beispiel, unter richtiger Dokumentierung in dem Regelwerk des Varos, möglich sein, ein Hacking-Varo zu veranstalten.
+     Eine richtige Dokumentation enthält für jede deaktivierte Regel des Katalogs einen vollständigen Satz, welcher genau
+     diese Regel beim vollständigen Namen nennt und explizit sagt, dass diese Regel in diesem Projekt nicht aktiv ist. 
+     Beispiel: "Wir können für 'C1 Ausnutzung von Adminrechten' nicht belangt werden".
+     Diese Deaktivierungspunkte dürfen sich nicht inmitten eines großen Textblocks befinden, sondern müssen mit Absätzen einzeln gezeigt werden, sodass
+     sie ausreichend sichtbar sind und herausstechen. Auch müssen sie sich direkt am Anfang des Regelwerks befinden.
+     Wenn dies nicht gegeben ist, ist die Regel auch weiterhin aktiv.
 
 3.   Alle Strafen/Regeln dieses Katalogs gelten auch für modifizierten Versionen des Plugins - mit Ausnahme der Bannumgehung.
 
@@ -16,15 +22,17 @@
 5.   Die Banns werden manuell verteilt und in besonderen Fällen kann vom Katalog abgewichen werden.
 
 6.   Dieser Katalog kann erweitert und verändert werden, bereits ausgeteilte Banns und noch offene Fälle werden dadurch nicht angepasst/aktualisiert.
-     Bei Wiederholungstaten (des gleichen Banngrunds), wird die Bannzeit verdoppelt.
 
-7.   Wenn hier verbotene Sachen explizit durch das Regelwerk des Projektes erlaubt ist, wird das Vergehen nicht gebannt, es sei denn, es verstößt gegen deutsches Recht (zB.          Hacking-Varo).
+7.   Wenn hier verbotene Sachen explizit durch das Regelwerk des Projektes erlaubt ist (zB. Hacking-Varo), wird das Vergehen nicht gebannt, es sei denn, es verstößt gegen deutsches Recht.
 
 8.   Mindeststrafen können um maximal 50% vermindert werden, wenn sich der Beschuldigte nach der Tat im Kontext dieser positiv verhalten hat.
 
 9.   Wir behalten uns das Recht vor Strafen zugunsten der Teilnehmer aufzuschieben.
 
-10.  Bei mehrfachen/wiederholten schweren Verstößen ist eine permanente Ausschließung eines Spielers möglich.     
+10.  Bei mehrfachen/wiederholten schweren Verstößen ist eine permanente Ausschließung eines Spielers möglich.
+
+11.  Bei Wiederholungstaten (des gleichen Banngrunds), wird die alte Bannzeit verdoppelt und die neue Bannzeit addiert ab dem Zeitpunkt des neuen Banns.
+     Dies gilt aber nur in Fällen, wo die Tat nach Bannung geschehen ist. Sonst wird die alte Bannzeit nicht verdoppelt.
 
 
 ## Banngründe
@@ -40,7 +48,8 @@ B1 Verhalten in schriftlicher Form¹ | Mehrfache Bestrafung pro Projekt möglich
       ↳ B1.2.2 Rassismus, Nationalsozialismus, Extremismus, Behindertenfeindlichkeit, ...
       ↳ = 1 Monat
 
-C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt (kann nur von Projektteilnehmern reported werden)
+C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt
+   -> kann nur von Projektteilnehmern reported werden
    ↳ C1.1 Konkrete Einflussnahme auf die Spielwelt
       ↳ C1.1.1 Cheaten von Items (für sich selbst oder andere)
       ↳ C1.1.2 Modifizieren der Welt zum Vorteil von bestimmten Nutzern
