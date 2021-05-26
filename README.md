@@ -62,7 +62,7 @@ C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt
       ↳ = 1-4 Wochen
 
 D1 Nichtausschüttung von Preisen | Max. 1 Bann pro Projekt
-   -> Diese Regel gilt nur für offizielle, rechtmäßig ausstehende Preisgelder eines Projektes.
+   -> Diese Regel gilt nur für offizielle, rechtmäßig ausstehende Preise eines Projektes.
       Bei Preisen, die direkt vom Projekt zur Verfügung gestellt werden, sind die Veranstalter des Projektes verantwortlich.
       Bei gesponserten Preisen sind die Sponsoren verantwortlich, vorausgesetzt ein Beweis für die Zusage des Sponsorings besteht.
       Sollte es keinen Beweis für die Zusage des Sponsorings geben, sind ebenfalls die Veranstalter des Projektes verantwortlich.
