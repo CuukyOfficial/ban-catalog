@@ -62,8 +62,13 @@ C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt
       ↳ = 1-4 Wochen
 
 D1 Nichtausschüttung von Preisen | Max. 1 Bann pro Projekt
-   ↳ D1.1 nichtausgezahlte Preisgelder bzw. nicht ausgegebene Gewinne
-   ↳ = permanenter Bann
+   -> Diese Regel gilt nur für offizielle, rechtmäßig ausstehende Preisgelder eines Projektes.
+      Bei Preisen, die direkt vom Projekt zur Verfügung gestellt werden, sind die Veranstalter des Projektes verantwortlich.
+      Bei gesponserten Preisen sind die Sponsoren verantwortlich, vorausgesetzt ein Beweis für die Zusage des Sponsorings besteht.
+      Sollte es keinen Beweis für die Zusage des Sponsorings geben, sind ebenfalls die Veranstalter des Projektes verantwortlich.
+      Die Veranstalter/Sponsoren haben nach unserem Hinweis auf Auszahlung noch 48 Stunden die Chance, die Preise auszuschütten.
+   ↳ D1.1 nicht ausgezahlte Preisgelder bzw. nicht ausgegebene Gewinne
+   ↳ = permanenter Bann (bis Herausgabe + 2 Monate)
 
 E1 Bannumgehung | Max. 1 Bann pro Projekt
    ↳ E1.1 Nutzung von Zweitaccounts, ...
