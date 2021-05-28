@@ -45,7 +45,7 @@ A1 Hacking | Max. 1 Bann pro Projekt
 B1 Verhalten in schriftlicher Form¹ | Mehrfache Bestrafung pro Projekt möglich
    ↳ B1.2 Generelles schweres Missverhalten
       ↳ B1.2.1 Persönliche Aufforderung zur Selbstverletzung oder Suizid
-      ↳ B1.2.2 Rassismus, Nationalsozialismus, Extremismus, Behindertenfeindlichkeit, ...
+      ↳ B1.2.2 Beleidigungen gegen Gruppen, Rassismus, Nationalsozialismus, Extremismus, Behindertenfeindlichkeit, Schwulenfeindlichkeit, ...
       ↳ = 1 Monat
 
 C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt
