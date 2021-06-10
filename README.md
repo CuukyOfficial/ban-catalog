@@ -39,7 +39,7 @@
 ```
 A1 Hacking | Max. 1 Bann pro Projekt
    ↳ A1.1 CombatHacks (Killaura, Flight, Speed, ...) und NonCombatHacks (X-Ray, Chestfinder, ...)
-   ↳ A1.2 DOS-Attacken aller Art
+   ↳ A1.2 Versuchte DOS-Attacken aller Art
    ↳ = 1-2 Monate
 
 B1 Verhalten in schriftlicher Form¹ | Mehrfache Bestrafung pro Projekt möglich
