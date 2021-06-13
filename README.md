@@ -50,6 +50,8 @@ B1 Verhalten in schriftlicher Form¹ | Mehrfache Bestrafung pro Projekt möglich
 
 C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt
    -> kann nur von Projektteilnehmern reported werden
+      Falls der Schaden, der angerichtet wurde, behoben wurde, kann keine Strafe erhoben werden.
+      Ein Neustart ist nicht unbedingt eine Behebung.
    ↳ C1.1 Konkrete Einflussnahme auf die Spielwelt
       ↳ C1.1.1 Cheaten von Items (für sich selbst oder andere)
       ↳ C1.1.2 Modifizieren der Welt zum Vorteil von bestimmten Nutzern
