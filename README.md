@@ -6,7 +6,7 @@
 ## Informationen
 1.   Gebannt werden Handlungen, die anderen Mitspielern den Spielspaß in Projekten nehmen könnten und auf einem Server, der das Plugin in diesem Moment benutzt, ausgeführt            werden. Weiterhin werden eventuell Handlungen gebannt, die nach deutschem Recht verboten sind. 
 
-2.   Alle dieser Regeln, welche das Gameplay (Chatverhalten, Ausnutzung & Hacking z.B.) des Varos betreffen, können von dem Admin des Projekts außer Kraft gesetzt werden, wenn        auf die Regeln angemessen hingewiesen wird und die Ausnahme ausdrücklich beschrieben wird - sonst gelten diese Regeln für alle verbindlich.
+2.   Alle der unten aufgelisteten Regeln können von dem Admin des Projekts außer Kraft gesetzt werden, wenn        auf die Regeln angemessen hingewiesen wird und die Ausnahme ausdrücklich beschrieben wird - sonst gelten diese Regeln für alle verbindlich.
      Somit kann es zum Beispiel, unter richtiger Dokumentierung in dem Regelwerk des Varos, möglich sein, ein Hacking-Varo zu veranstalten.
      Eine richtige Dokumentation enthält für jede deaktivierte Regel des Katalogs einen vollständigen Satz, welcher genau
      diese Regel beim vollständigen Namen nennt und explizit sagt, dass diese Regel in diesem Projekt nicht aktiv ist. 
@@ -14,6 +14,7 @@
      Diese Deaktivierungspunkte dürfen sich nicht inmitten eines großen Textblocks befinden, sondern müssen mit Absätzen einzeln gezeigt werden, sodass
      sie ausreichend sichtbar sind und herausstechen. Auch müssen sie sich direkt am Anfang des Regelwerks befinden.
      Wenn dies nicht gegeben ist, ist die Regel auch weiterhin aktiv.
+     List der Regeln: A1, E1
 
 3.   Alle Strafen/Regeln dieses Katalogs gelten auch für modifizierten Versionen des Plugins - mit Ausnahme der Bannumgehung.
 
