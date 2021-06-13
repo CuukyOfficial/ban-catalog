@@ -46,7 +46,7 @@ B1 Verhalten in schriftlicher Form¹ | Mehrfache Bestrafung pro Projekt möglich
    ↳ B1.2 Generelles schweres Missverhalten
       ↳ B1.2.1 Persönliche Aufforderung zur Selbstverletzung oder Suizid
       ↳ B1.2.2 Rassismus, Nationalsozialismus, Extremismus, Behindertenfeindlichkeit, ...
-      ↳ = 1-4 Wochen
+      ↳ = 1-2 Wochen
 
 C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt
    -> kann nur von Projektteilnehmern reported werden
