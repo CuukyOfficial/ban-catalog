@@ -63,6 +63,7 @@ C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt
       ↳ C1.2.2 unrechtmäßiges Wiederbeleben/Töten
       ↳ C1.2.3 Verändern des Regelwerks während eines laufenden Varos zum Vorteil von nicht allen Nutzern
       ↳ C1.2.4 ungleiche Behandlung der Spieler jeglicher Art mit schweren Auswirkungen
+      ↳ C1.2.5 ungleiche Einflussnahme auf Ingame-Spieler (Schlagen, Teleportieren, ...)
       ↳ = 1-4 Wochen
 
 D1 Nichtausschüttung von Preisen | Max. 1 Bann pro Projekt
