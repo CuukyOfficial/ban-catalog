@@ -38,18 +38,18 @@
 
 ## Banngründe
 ```
-A1 Hacking | Max. 1 Bann pro Projekt
+A1 Hacking | Max. 1 Bann pro Projekt, muss innerhalb eines Monats reported werden
    ↳ A1.1 CombatHacks (Killaura, Flight, Speed, ...) und NonCombatHacks (X-Ray, Chestfinder, ...)
    ↳ A1.2 Versuchte DOS-Attacken aller Art
    ↳ = 1-2 Monate
 
-B1 Verhalten in schriftlicher Form¹ | Mehrfache Bestrafung pro Projekt möglich
+B1 Verhalten in schriftlicher Form¹ | Mehrfache Bestrafung pro Projekt möglich, muss innerhalb eines Monats reported werden
    ↳ B1.2 Generelles schweres Missverhalten
       ↳ B1.2.1 Persönliche Aufforderung zur Selbstverletzung oder Suizid
       ↳ B1.2.2 Rassismus, Nationalsozialismus, Extremismus, Behindertenfeindlichkeit, ...
       ↳ = 1-2 Wochen
 
-C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt
+C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt, muss innerhalb eines Monats reported werden
    -> kann nur von Projektteilnehmern reported werden
       Falls der Schaden, der angerichtet wurde, behoben wurde, kann keine Strafe erhoben werden.
       Ein Neustart ist nicht unbedingt eine Behebung.
@@ -75,7 +75,7 @@ D1 Nichtausschüttung von Preisen | Max. 1 Bann pro Projekt
    ↳ D1.1 nicht ausgezahlte Preisgelder bzw. nicht ausgegebene Gewinne
    ↳ = permanenter Bann (bis Herausgabe + 2 Monate)
 
-E1 Bannumgehung | Max. 1 Bann pro Projekt
+E1 Bannumgehung | Max. 1 Bann pro Projekt, muss innerhalb eines Monats reported werden
    ↳ E1.1 Nutzung von Zweitaccounts, ...
       ↳ = Verdopplung des letzten Bans, ab dem Zeitpunkt der Bannumgehung
    ↳ E1.2 Unterstützung bei Bannumgehung von gebannten Spielern
