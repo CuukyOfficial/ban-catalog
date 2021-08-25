@@ -33,7 +33,7 @@
 10.  Bei mehrfachen/wiederholten schweren Verstößen ist eine permanente Ausschließung eines Spielers möglich.
 
 11.  Bei Wiederholungstaten (des gleichen Banngrunds), wird die alte Bannzeit verdoppelt und die neue Bannzeit addiert ab dem Zeitpunkt des neuen Banns.
-     Dies gilt aber nur in Fällen, wo die Tat nach Bannung geschehen ist. Sonst wird die alte Bannzeit nicht verdoppelt.
+     Dies gilt aber nur in Fällen, wo die Tat nach Bannung geschehen ist. Sonst wird die alte Bannzeit nicht verdoppelt. Sollte die alte Bannzeit einer älteren Version des Ban Katalogs entsprechen wird diese gegebenenfalls auf die neuen Werte umgerechnet.
 
 
 ## Banngründe
