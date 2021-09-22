@@ -55,7 +55,7 @@ C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt, 
       Ein Neustart ist nicht unbedingt eine Behebung.
       Ein Projekt darf zu jedem Zeitpunkt von einem Admin des Projekts gestoppt oder neu gestartet werden.
    ↳ C1.1 Konkrete Einflussnahme auf die Spielwelt
-      ↳ C1.1.1 Cheaten von Items (für sich selbst oder andere)
+      ↳ C1.1.1 Cheaten von Items, Effekten, o.Ä. (für sich selbst oder andere)
       ↳ C1.1.2 Modifizieren der Welt zum Vorteil von bestimmten Nutzern
       ↳ = 1-4 Wochen
    ↳ C1.2 Unfaire Behandlung der Teilnehmer
