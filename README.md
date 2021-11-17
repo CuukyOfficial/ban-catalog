@@ -4,7 +4,7 @@
 **SpigotMC:** https://www.spigotmc.org/resources/71075/
 
 ## Informationen
-1.   Gebannt werden Handlungen, die anderen Mitspielern den Spielspaß in Projekten nehmen könnten und auf einem Server, der das Plugin in diesem Moment benutzt, ausgeführt            werden. Weiterhin werden eventuell Handlungen gebannt, die nach deutschem Recht verboten sind. 
+1.   Gebannt werden Handlungen, die anderen Mitspielern den Spielspaß in Projekten nehmen könnten, wenn diese entweder und auf einem Server, der das Plugin in diesem Moment benutzt oder einem offiziellen Partner-Netzwerk ausgeführt werden. Weiterhin werden eventuell Handlungen gebannt, die nach deutschem Recht verboten sind.
 
 2.   Alle der unten aufgelisteten Regeln können von dem Admin des Projekts außer Kraft gesetzt werden, wenn        auf die Regeln angemessen hingewiesen wird und die Ausnahme ausdrücklich beschrieben wird - sonst gelten diese Regeln für alle verbindlich.
      Somit kann es zum Beispiel, unter richtiger Dokumentierung in dem Regelwerk des Varos, möglich sein, ein Hacking-Varo zu veranstalten.
