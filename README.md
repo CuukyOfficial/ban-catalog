@@ -51,6 +51,7 @@ B1 Verhalten in schriftlicher Form¹ | Mehrfache Bestrafung pro Projekt möglich
 
 C1 Ausnutzung der Adminrechte während des Projektes | Max. 1 Bann pro Projekt, muss innerhalb eines Monats reported werden
    -> kann nur von Projektteilnehmern reported werden
+      Gilt nur für Projekte mit insgesamt mindestens 20 Teilnehmern
       Falls der Schaden, der angerichtet wurde, behoben wurde, kann keine Strafe erhoben werden.
       Ein Neustart ist nicht unbedingt eine Behebung.
       Ein Projekt darf zu jedem Zeitpunkt von einem Admin des Projekts gestoppt oder neu gestartet werden.
