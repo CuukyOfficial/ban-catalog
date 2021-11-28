@@ -78,7 +78,8 @@ D1 Nichtausschüttung von Preisen | Max. 1 Bann pro Projekt
 
 E1 Bannumgehung | Max. 1 Bann pro Projekt, muss innerhalb eines Monats reported werden
    ↳ E1.1 Nutzung von Zweitaccounts, ...
-      ↳ = Verdopplung des letzten Bans, ab dem Zeitpunkt der Bannumgehung
+      ↳ = Verdopplung der ursprünglichen Bannzeit des letzten Bans (nicht Verkürzung oder Unban), geltend ab dem Zeitpunkt der Bannumgehung oder finalen
+          Bearbeitung des Tickets.
    ↳ E1.2 Unterstützung bei Bannumgehung von gebannten Spielern
       ↳ E1.2.1 Bereitstellung eines Accounts
          ↳ = Bannen aller derzeitig verlinkten Accounts von der Person, die Hilfe geleistet hat.
